@@ -1,0 +1,14 @@
+   /*#homepage{
+    background-color: whi;
+    text-align: center;
+    width: 800px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow:0 4px 8px bl;*/
+
+
+#roots{
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-between;
+}
